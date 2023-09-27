@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: true
 
 #strategy:
-#  matrix:
+#  matrix :
 #    os: [ubuntu-14.04, ubuntu-18.04, ubuntu-latest]
 
 jobs:
